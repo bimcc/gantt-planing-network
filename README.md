@@ -22,7 +22,7 @@
 	<a href="http://www.bimcc.com/" target="_blank">飞椽零代码</a>&nbsp;|
     <a href="https://gantt.bimcc.net/network-diagram" target="_blank">4合一引擎演示</a>&nbsp;|
     <a href="https://gitee.com/zw12579/gantt-planing-network" target="_blank">码云仓库</a>&nbsp;|
-    <a href="https://github.com/zw12579/gantt-planing-react" target="_blank">Github仓库</a>
+    <a href="https://github.com/bimcc/gantt-planing-network" target="_blank">Github仓库</a>
 </p>
 
 
